@@ -82,7 +82,7 @@ You are only required to follow the instructions under the **Install R and RStud
 
 ### Bring your own dataset(s) to Workshop #6
 
-Please bring one or more datasets you hope to incoroprate into your own research for Workshop #6. We will be using the tools we've learned in importing and cleaning data in R as well as visualizing data in R with datasets you have collected during your RaMP training. Instructors will be available to answer questiosn and help troubleshoot solutions. It's likely that more than one person will see the same error - so this is a great time to learn about common issues with importing data into R!
+Please bring one or more datasets you hope to incoroprate into your own research for Workshop #6. We will be using the tools we've learned in importing and cleaning data in R as well as visualizing data in R with datasets you have collected during your RaMP training. Instructors will be available to answer questions and help troubleshoot solutions. We will be working together to try common data import and cleaning steps. This is a great time to troubleshoot errors too because it's likely that more than one person will see the same error and the instructors will be available to walk through these issues. 
 
 ## Learn More
 
