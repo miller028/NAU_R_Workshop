@@ -62,7 +62,7 @@ In this workshop, we will learn how to import data into R and make these data ea
 
 In this workshop session, participants will be working to import their own datasets into R. We will  process and visualize data together during the session and instructors will be available to troubleshoot issues with data in R.
 
-### Workshop 7: Introduction to Statistics in R
+### Workshop 7: [Introduction to Statistics in R](https://anamtk.github.io/stats_workshop/Introduction_to_Statistics.html)
 
 In this workshop, we will learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training. 
 
