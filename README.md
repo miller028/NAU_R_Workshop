@@ -26,13 +26,13 @@
 
 We will be abiding by a code of conduct for this workshop based on the code of [R-Ladies](https://rladies.org/code-of-conduct/). 
 
-Any code of conduct violations can be reported here and will result in removal of violators from the remainder of the workshop. 
+Please respect fellow learners, instructors, and helpers. 
 
 ## Surveys
 
-Please be sure to complete these surveys before and after the workshop
+Please be sure to complete these surveys before and after the workshop. It is okay if you know nothing about R as you answer these - introducing you to R is the point of this workshop series!
 
-Pre-workshop survey (coming soon)
+[Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSdISjgvSBMtKURdFY9ZQSSJb6Xaa0N-VctpKzmvd1WtkHaQ0g/viewform?usp=sf_link)
 
 Post-workshop survey (available after all workshops are complete)
 
