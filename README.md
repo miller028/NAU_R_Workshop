@@ -42,6 +42,8 @@ Post-workshop survey (available after all workshops are complete)
 
 In this workshop, we will walk through an overview of R and why it is so useful for ecologists. During this workshop, the instructors will ensure that everyone has successfully downloaded R and RStudio and completed the setup tasks outlined [below](#setup). 
 
+[Presentation PDF](https://github.com/anamtk/NAU_R_Workshop/tree/main/sessions/Why_R.pdf)
+
 ### Workshop 2: [Getting Started in R and RStudio](https://carpentries-incubator.github.io/R-ecology-lesson-alternative/introduction-r-rstudio.html)
 
 In this workshop, we will get oriented to R and RStudio and how they work together. We will also talk about file and folder organization that will generally be helful for project management, but make it much easier to work with R programming on your computer. We will also quickly review why ecologists use R for data analysis.
@@ -100,7 +102,7 @@ This is a compilation of R-based resources including community support, using R,
 
 [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/)
 
-[R 4 Data Science (Hadley Wickham/Garret Grolemund)](https://r4ds.had.co.nz/)
+[R 4 Data Science (Hadley Wickham/Garret Grolemund)](https://r4ds.hadley.nz/)
 
 [CU Boulder EarthLab Course Notes](https://www.earthdatascience.org/courses/)
 
