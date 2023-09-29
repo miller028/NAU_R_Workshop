@@ -104,6 +104,8 @@ This is a compilation of R-based resources including community support, using R,
 
 [R 4 Data Science (Hadley Wickham/Garret Grolemund)](https://r4ds.hadley.nz/)
 
+[Swirl package](https://swirlstats.com/)
+
 [CU Boulder EarthLab Course Notes](https://www.earthdatascience.org/courses/)
 
 [More fun with FUNctions! by An Bui](https://an-bui.shinyapps.io/FUNctions-learnR/#section-about-and-credits)
